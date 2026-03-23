@@ -1,0 +1,13 @@
+{
+  "appId": "com.tcm.prescription",
+  "appName": "中医开方系统",
+  "webDir": "dist",
+  "plugins": {
+    "Filesystem": {
+      "ios": {},
+      "android": {
+        "refresh": true
+      }
+    }
+  }
+}

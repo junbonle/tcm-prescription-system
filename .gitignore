@@ -1,0 +1,23 @@
+# 依赖目录
+node_modules/
+.npm
+.pnpm-store
+
+# 构建输出
+dist/
+*.log
+
+# 开发环境/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 跨平台项目原生目录
+android/
+ios/
+
+# 环境变量
+.env
+.env.*
+!.env.example
